@@ -34,9 +34,15 @@ cd WebCode
 npm install
 
 npm start
+
 Open your browser and go to http://localhost:3000.
+
 Usage
+
 Write your HTML, CSS, and JavaScript in the respective panes.
 Watch the live preview as you code.
 Adjust settings such as layout, theme, and auto-completion in the settings menu.
 Share your code with others using the share button.
+
+![image](https://github.com/user-attachments/assets/b91cd1d9-eba0-46b7-b02e-f1dcf18c8d88)
+
